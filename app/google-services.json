@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "747498772395",
+    "firebase_url": "https://smarttravel-ba2e5.firebaseio.com",
+    "project_id": "smarttravel-ba2e5",
+    "storage_bucket": "smarttravel-ba2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747498772395:android:0bbccf2bdab71a00",
+        "android_client_info": {
+          "package_name": "bih.travel.smart.smarttravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747498772395-piufekmmk7snvq07gaqkkar8164qkp9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-qwcjSFSRkN2Wpqnrq9XJ6sabFgzxaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

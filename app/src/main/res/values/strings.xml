@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartTravel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hotel_loc_hint"><font size="5sp">Hotel location...</font></string>
+
+    <!--CLASSES FOR TRAVEL-->
+    <string name="class_prompt">Choose a class</string>
+    <string-array name="classes_arrays">
+        <item>Economy</item>
+        <item>Premium Economy</item>
+        <item>Business class</item>
+        <item>First class</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
